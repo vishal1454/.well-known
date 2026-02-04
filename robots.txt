@@ -1,0 +1,8 @@
+User-agent: *
+Disallow:
+
+# Sitemap for crawling
+Sitemap: https://vishal1454.github.io/.well-known/atom.xml
+
+# LLM file reference
+# LLMS discovery: https://vishal1454.github.io/.well-known/llms.txt
