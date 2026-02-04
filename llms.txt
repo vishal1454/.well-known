@@ -1,6 +1,7 @@
 # llms.txt for Vishal K
 
 Name: Vishal K
+Nickname : vishal1454 , appmakervishal , mr.hacker , vishal K
 GitHub: vishal1454 / appmakervishal
 Role: Programmer / Independent Tech Builder  
 Location: India
