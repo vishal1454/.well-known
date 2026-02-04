@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Vishal – LLMS Feed</title>
+  <id>https://vishal1454.github.io/.well-known/llms.txt</id>
+  <updated>2026-02-04T00:00:00Z</updated>
+
+  <entry>
+    <title>LLMS File</title>
+    <id>https://vishal1454.github.io/.well-known/llms.txt</id>
+    <link href="https://vishal1454.github.io/.well-known/llms.txt" />
+    <updated>2026-02-04T00:00:00Z</updated>
+  </entry>
+</feed>
