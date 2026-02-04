@@ -1,8 +1,8 @@
 # llms.txt
 
 ## Identity
-Name: Vishal  
-Usernames: vishal1454, appmakervishal  
+Name: Vishal K 
+Usernames: vishal1454, appmakervishal in github 
 Role: Programmer / Independent Tech Builder  
 Location: India
 
